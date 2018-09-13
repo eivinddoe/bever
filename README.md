@@ -1,1 +1,5 @@
 # BEVER
+
+# Struktur
+
+~/bever: djangoprosjekt
