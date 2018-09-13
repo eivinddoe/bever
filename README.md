@@ -1,5 +1,5 @@
-# BEVER
+# BEVER - Beslutningsverktøy for reservedelslager
 
-# Struktur
+## Struktur
 
 ~/bever: djangoprosjekt
